@@ -19,6 +19,7 @@ $buscar_credenciais_cf = buscar_credenciais_cf(
 $plano_ou_servico = 'servico'; // plano ou servico
 
 // Coloque apenas numeros. Ex: Colocando 5, será 5% de juros. // (EDITAR)
+$habilitarCartao = true;
 $jurosCartao = 0;
 
 
